@@ -3,13 +3,11 @@ public class Hochhaus extends Haus
 {
     protected int stockwerke;
     
-    public Hochhaus( double pHoeheProStockwerk, int pStockwerke, int pBesucherProStockwerk )
+    public Hochhaus( double pHoeheProStockwerk, int pStockwerke, int pBesucher )
     {
-        super(pHoeheProStockwerk, pStockwerke, pBesucherProStockwerk);
+        super(pHoeheProStockwerk, pStockwerke, pBesucher);
     }
     
-    public int anzahlBesucher() {
-        return stockwerke * besucher;
-    }
-	//test
+    
+    //test
 }

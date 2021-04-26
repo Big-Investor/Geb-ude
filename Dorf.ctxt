@@ -1,8 +1,14 @@
 #BlueJ class context
 comment0.target=Dorf
-comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Dorf.\r\n\ \r\n\ @author\ Leon\r\n\ @version\ 1.0\r\n
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Dorf.\r\n\ \r\n\ @author\ Tim\r\n\ @version\ 1.0\r\n
 comment1.params=
 comment1.target=Dorf()
 comment2.params=
 comment2.target=int\ besucher()
-numComments=3
+comment3.params=
+comment3.target=void\ ersteVeraenderung()
+comment4.params=
+comment4.target=void\ zweiteVeraenderung()
+comment5.params=pGebaeude
+comment5.target=void\ gebaudeHinzufuegen(Gebaeude)
+numComments=6
