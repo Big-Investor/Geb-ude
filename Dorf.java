@@ -14,9 +14,9 @@ public class Dorf
         dorfgebaeude[0] = new Einfamilienhaus(3,5,5);
         dorfgebaeude[1] = new Einfamilienhaus(5,2,10);
         dorfgebaeude[2] = new Einfamilienhaus(4,1,13);
-        dorfgebaeude[3] = new Hochhaus(2.5,4,4);
-        dorfgebaeude[4] = new Hochhaus(5,3,10);
-        dorfgebaeude[5] = new Hochhaus(4.5,5,9);
+        dorfgebaeude[3] = new Einfamilienhaus(2.5,4,4);
+        dorfgebaeude[4] = new Einfamilienhaus(5,3,10);
+        dorfgebaeude[5] = new Einfamilienhaus(4.5,5,9);
         dorfgebaeude[6] = new Kathedrale(30,87);
     }
     
